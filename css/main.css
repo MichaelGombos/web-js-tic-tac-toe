@@ -1,0 +1,14 @@
+.round-50 {
+  border-radius: 50px;
+}
+.round-20 {
+  border-radius: 20px;
+}
+.round-10 {
+  border-radius: 10px;
+}
+
+#evaluation-display {
+  min-height: 67px;
+  height: 67px;
+}
